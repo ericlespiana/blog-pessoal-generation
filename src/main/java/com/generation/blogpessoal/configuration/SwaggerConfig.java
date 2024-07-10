@@ -21,17 +21,17 @@ public class SwaggerConfig {
             .info(new Info()
                 .title("Projeto Blog Pessoal")
                 .description("Projeto Blog Pessoal - Generation Brasil")
-                .version("v0.0.1")
+                .version("v0.0.2")
                 .license(new License()
-                    .name("James")
-                    .url("https://www.linkedin.com/in/ueber-nascimento/"))
+                    .name("Ericles")
+                    .url("linkedin.com/in/ericlespiana"))
                 .contact(new Contact()
-                    .name("James")
-                    .url("https://github.com/Ueber-James")
-                    .email("ueberjames@outlook.com")))
+                    .name("Ericles")
+                    .url("https://github.com/ericlespiana")
+                    .email("ericlespiana@gmail.com")))
             .externalDocs(new ExternalDocumentation()
                 .description("Github")
-                .url("https://github.com/Ueber-James/blogpessoal"));
+                .url("https://github.com/ericlespiana/blog-pessoal-generation"));
     }
 
 
